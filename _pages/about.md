@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic_2.jpg
   image_circular: true # crops the image to make it circular
-  address: <p align='center'>(he/him)</p>
-    <p align='center'>PhD Student, <br>University of Illinois Chicago</p>
-    <p></p>
+  address:
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -23,7 +21,7 @@ Research Assistant at Electronic Visualization Laboratory (EVL) advised by <a hr
 Visit my profile at EVL's website <a href="https://www.evl.uic.edu/people/2588">here</a>.
 <br><br>
 
-<a href='#https://cs.uic.edu/'>Computer Science</a> PhD student @ University of Illinois Chicago.
+CS PhD student @ <a href='https://cs.uic.edu/'>University of Illinois Chicago</a>.
 <br><br>
 
 My research leverages skills in <span style="background-color: rgba(2,118,223, 0.2); color: #0276DF; padding: 2px 2px; border-radius: 3px;">visualization & visual analytics</span>, <span style="background-color: rgba(2,118,223, 0.2); color: #0276DF; padding: 2px 2px; border-radius: 3px;">big data analysis</span>, and <span style="background-color: rgba(2,118,223, 0.2); color: #0276DF; padding: 2px 2px; border-radius: 3px;">applied machine learning</span>. Specifically, I focus on utilizing these skills within urban planning and health informatics, aiming to enhance the ability of domain experts to efficiently analyze large-scale data and uncover complex patterns through advanced visual analytics systems. My work also involves open-sourcing projects to foster further research in these areas, that include:
