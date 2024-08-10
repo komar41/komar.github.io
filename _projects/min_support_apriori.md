@@ -8,7 +8,7 @@ category: Other
 ---
 
 <h4><u>Access this project</u></h4>
-<b>GitHub repo:</b> <a href='https://github.com/komar41/MSApriori'>https://github.com/komar41/MSApriori</a> <br>
+<b>GitHub repo:</b> <a href='https://github.com/komar41/min-support-apriori'>https://github.com/komar41/min-support-apriori</a> <br>
 <b>Tools used:</b> Python.
 <p align='justify'>
 The Apriori algorithm is a fundamental data mining technique for finding frequent itemsets in transaction databases. It works by identifying individual items that meet a minimum support threshold, then extends to larger itemsets, pruning those that don't meet the threshold.
