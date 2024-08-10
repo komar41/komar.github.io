@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Kazi Shahrukh Omar
-    - name: Date of Birth
-      value: 05 May 1996
     - name: Languages
       value: English, Bengali
 
@@ -76,7 +74,6 @@
       description:
         - "Courses Taught: Discrete Mathematics - Computer Peripheral, Interfacing and Maintenance - Digital Logic Design - Computer Graphics - Object Oriented Programming - Design and Analysis of Algorithms - Data Structures."
 
-
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -101,13 +98,12 @@
       description: "<a href='https://www.evl.uic.edu/events/2596'>IEEE VIS Satelite Event (2021)</a> volunteer. Held at EVL, UIC."
     - year: 2018
       description: "Class Representative, Department of CSE at Military Institute of Science and Technology."
-    
 
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
-#       items: 
+#       items:
 #         - Description 1.
 #         - Description 2.
 #     - title: Topic 2.
