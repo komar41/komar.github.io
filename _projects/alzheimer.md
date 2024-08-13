@@ -3,7 +3,7 @@ layout: page
 title: Alzheimer's Assistant
 description: An IOT based assistive tool for Alzheimer's patients and their caregivers
 img: "assets/img/projects/alzheimer/overview.png"
-importance: 4
+importance: 5
 category: Research
 related_publications: omar2019intelligent
 ---

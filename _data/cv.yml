@@ -77,6 +77,13 @@
       description:
         - "Courses Taught: Discrete Mathematics, Computer Peripheral Interfacing and Maintenance, Digital Logic Design, Computer Graphics, Object Oriented Programming, Design and Analysis of Algorithms, Data Structures."
 
+    - title: Software Developer Intern
+      institution: "<a href='https://solutionart.net/'>Solution Art Ltd, Bangladesh</a>"
+      year: Nov 2017 - Dec 2017
+      description:
+        - Designed database schema for a hotel management system.
+        - Frontend development of the system.
+
 - title: Projects
   type: time_table
   contents:
@@ -91,6 +98,12 @@
       description:
         - "Developed <a href='https://github.com/komar41/vigma'>VIGMA</a>, an open-access visual analytics system for gait and motion analysis, integrating computational notebooks and a Python library."
         - Analytical capabilities for disease progression analysis and multi-patient group comparisons, validated through expert usage scenarios.
+
+    - title: "Bi-GRU Model for Automatic Gait Event Detection in Older Adults<br>(Paper under review at Journal of NeuroEngineering and Rehabilitation)"
+      year: 2023 - 2024
+      description:
+        - Developed an automatic gait event detection method using Bi-GRU models, specifically tailored for perturbed walking scenarios in older adults, leveraging marker, angle, and GRF data.
+        - Demonstrated that kinematic-based approaches, as opposed to traditional GRF methods, offer promising accuracy and efficiency, reducing the need for manual cross-validation in clinical gait analysis.
 
     - title: "Navigating Large Dining Hall Spaces Considering Dietary Restrictions"
       year: 2024

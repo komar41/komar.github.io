@@ -3,7 +3,7 @@ layout: page
 title: Autism ML
 description: An accurate prediction model for ASD interfaced with a mobile app
 img: "assets/img/projects/autism/overview.png"
-importance: 5
+importance: 6
 category: Research
 related_publications: omar2019machine
 ---
