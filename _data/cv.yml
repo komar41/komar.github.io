@@ -209,10 +209,14 @@
 - title: Talks and Presentations
   type: time_table
   contents:
-    - title: "Crowdsourcing and Sidewalk Data: A Preliminary Study on the Trustworthiness of OpenStreetMap Data in the US"
-      description: Paper presented at ASSETS’22 Workshop on The Future of Urban Accessibility.
     - title: Visual Analytics Approaches for Facilitating Explainability of Graph Neural Networks
       description: Ph.D. Qualifier Exam, 2023
+    - title: "Crowdsourcing and Sidewalk Data: A Preliminary Study on the Trustworthiness of OpenStreetMap Data in the US"
+      description: Paper presented at ASSETS’22 Workshop on The Future of Urban Accessibility, 2022.
+    - title: "An Intelligent Assistive Tool for Alzheimer’s Patient"
+      description: Paper presented at IEEE ICASERT conference, 2019.
+    - title: "A Machine Learning Approach to Predict Autism Spectrum Disorder"
+      description: Paper presented at IEEE ECCE conference, 2019.
 
 - title: Honors and Awards
   type: time_table
