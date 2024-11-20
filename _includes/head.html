@@ -49,6 +49,12 @@
   id="highlight_theme_light"
 />
 
+<script>
+  console.log(
+    "https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/{{ site.highlight_theme_light | append: '.css' }}"
+  );
+</script>
+
 {% if page.toc and page.toc.sidebar %}
 <!-- Sidebar Table of Contents -->
 <link
