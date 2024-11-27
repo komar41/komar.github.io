@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<em>“Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces”</em> has been accepted for publication in the journal <em>“IEEE Transactions on Big Data”</em>. View the paper <a href='10.1109/TBDATA.2024.3382964'>here</a>. :label:
+<em>“Deep Umbra: A Generative Approach for Sunlight Access Computation in Urban Spaces”</em> has been accepted for publication in the journal <em>“IEEE Transactions on Big Data”</em>. View the paper <a href='https://arxiv.org/pdf/2402.17169'>here</a>. :label:
